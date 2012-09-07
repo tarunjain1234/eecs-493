@@ -17,15 +17,3 @@ This repository serves to track the assignments for this course, research for ou
 (11/5): Draft due (8-12 pages, single spaced), with summary of changes to proposal
 (11/26): Project Presentation ready
 (12/7): Final project report (15-25 pages) due with summary of changes
-
-
-## Directory Structure
-├── README
-├── assignments
-├── implementation
-├── research
-└── thesis
-    ├── Body
-    ├── Makefile
-    ├── README.markdown
-    ├── References
